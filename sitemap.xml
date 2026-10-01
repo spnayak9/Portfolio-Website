@@ -1,5 +1,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://shakti.work/index2.html</loc>
+	</url>
+	<url>
 		<loc>https://shakti.work/index.html</loc>
+	</url>
+	<url>
+		<loc>https://shakti.work/page2.html</loc>
 	</url>
 </urlset>
